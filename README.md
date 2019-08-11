@@ -4,6 +4,8 @@ Inspired by https://github.com/raphink/geneve_1564, I decided to copy the same a
 
 ![Output Comparison](https://raw.githubusercontent.com/adammschauer/Sidereus_Nuncius/master/Output%20Comparison.png)
 
+**Current Status: Title Page Complete**
+
 Per Wikipedia:
 
 "Sidereus Nuncius (usually Sidereal Messenger, also Starry Messenger or Sidereal Message) is a short astronomical treatise (or pamphlet) published in New Latin by Galileo Galilei on March 13, 1610. It was the first published scientific work based on observations made through a telescope, and it contains the results of Galileo's early observations of the imperfect and mountainous Moon, the hundreds of stars that were unable to be seen in either the Milky Way or certain constellations with the naked eye, and the Medicean Stars (later Galilean moons) that appeared to be circling Jupiter."
