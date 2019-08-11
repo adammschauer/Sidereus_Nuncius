@@ -2,6 +2,7 @@
 
 Inspired by https://github.com/raphink/geneve_1564, I decided to copy the same approach of utilizing XeLaTeX and the EB Garamond font to reproduce a classic text, but in this case, applying the approach to the Siderus Nuncius by Galileo. The intent is to get as close as possible to the original while obviously cleaning up the placement of the text and overall formatting from the original.
 
+![Output Comparison](https://raw.githubusercontent.com/adammschauer/Sidereus_Nuncius/master/Output%20Comparison.png)
 
 Per Wikipedia:
 
