@@ -1,1 +1,1 @@
-# Sidereus_Nuncius
+Sidereus Nuncius LaTeX Project
