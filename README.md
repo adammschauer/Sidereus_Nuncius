@@ -1,6 +1,6 @@
 # Sidereus Nuncius LaTeX Project
 
-Inspired by https://github.com/raphink/geneve_1564 (via ![Stack Exchange](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)), I decided to copy the same approach of utilizing XeLaTeX and the EB Garamond font to reproduce a classic text, but in this case, applying the approach to the Siderus Nuncius by Galileo. The intent is to get as close as possible to the original while obviously cleaning up the placement of the text and overall formatting from the original.
+Inspired by https://github.com/raphink/geneve_1564 (via ![Stack Exchange](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)). I decided to copy the same approach of utilizing XeLaTeX and the EB Garamond font to reproduce a classic text, but in this case, applying the approach to the Siderus Nuncius by Galileo. Galileo's Siderus Nuncius and other classic original texts have a long history of both legal and illegal replication. PBS's  ![excellent documentary](https://www.pbs.org/video/galileos-moon-7vidcl/) describes this is great detail. The intent is to get as close as possible to the original while obviously cleaning up the placement of the text and overall formatting from the original.
 
 ![Output Comparison](https://raw.githubusercontent.com/adammschauer/Sidereus_Nuncius/master/Output%20Comparison.png)
 
