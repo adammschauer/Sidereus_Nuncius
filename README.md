@@ -9,6 +9,7 @@ I decided to copy the same approach of utilizing XeLaTeX and the EB Garamond fon
 **Current Status: Title Page Complete; Adding the rest of all pages; Replicating in English**
 
 Reference Documents:
+
 [Latin (Smithsonian)](https://library.si.edu/digital-library/book/sidereusnuncius00gali)
 
 [English (Helden Translation)](http://people.reed.edu/~wieting/mathematics537/SideriusNuncius.pdf)
